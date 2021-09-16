@@ -13,6 +13,10 @@ Tool Crack Facebook With Token
 
 ☆pkg install python2
 
+☆pip2 install requests
+
+☆pip2 install mechanize
+
 ☆git clone https://github.com/AXEYEDKHA/Crack_Pro.git
 
 ☆cd Crack_Pro
